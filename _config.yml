@@ -24,11 +24,11 @@ repository               : "minus-one/minus-one.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "K Adithya"
+  name             : "Adithya Kumar"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, IIT-Gn"
   location         : "Gandhinagar"
-  employer         : "Indian Institute of Technology, Gandhinagar"
+  employer         : "IIT, Gandhinagar"
   uri              : # URL
   email            : "k[dot]adithya[at]iitgn[dot]ac[dot]in" 
 
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "uhdithya" # Username for X / Twitter
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
